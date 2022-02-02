@@ -1,0 +1,15 @@
+package controller;
+
+import model.Carro;
+
+public class GerenciamentoCarro {
+
+	public static void main(String[] args) {
+		
+		//objeto
+		Carro c1 = new Carro("VW", "Gol", 2010, false, 0);
+		
+
+	}
+
+}

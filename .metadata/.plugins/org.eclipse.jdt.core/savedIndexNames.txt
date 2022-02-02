@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lunar\Desktop\Projeto Carro\.metadata\.plugins\org.eclipse.jdt.core
+4182086058.index
+1865797976.index
+3802965656.index
